@@ -1,9 +1,9 @@
 # arduvid-19
 Es una aplicación que abre y cierra ventanas de una habitación, dependiendo de la cantidad de personas que haya en el interior y de la temperatura ambiente. 
 Se llevará un conteo de cada persona que ingrese a la habitación, al llegar a cierta temperatura dentro de la misma, automáticamente se abrirán las ventanas y viceversa.  
-##Circuito
+## Circuito
 ![circuito](https://i.imgur.com/vrbbDaz.png)
-##Componentes
+## Componentes
 ![comps](https://i.imgur.com/4AHw1vx.png)
 
 En un funcionamiento real, sería más óptima la utilización de un sensor óptico de barrera, ya que tienen una mayor precisión y velocidad que el sensor ultrasónico.
