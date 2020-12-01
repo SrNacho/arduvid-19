@@ -3,6 +3,8 @@ Es una aplicación que abre y cierra ventanas de una habitación, dependiendo de
 Se llevará un conteo de cada persona que ingrese a la habitación, al llegar a cierta temperatura dentro de la misma, automáticamente se abrirán las ventanas y viceversa.  
 ## Circuito
 ![circuito](https://i.imgur.com/vrbbDaz.png)
+## Simulación:
+https://www.tinkercad.com/things/daqrnq3dZ3P
 ## Componentes
 ![comps](https://i.imgur.com/4AHw1vx.png)
 
